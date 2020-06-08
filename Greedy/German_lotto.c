@@ -20,7 +20,7 @@ void    DFS(int start, int depth)
     }
     else
     {
-        for (i = start; i < k; i++) {
+        for (i = start; i < 6; i++) {
             arr2[depth] = arr[i];
             DFS(i + 1, depth + 1);
         }
