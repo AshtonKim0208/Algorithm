@@ -5,3 +5,15 @@
 
 ## Greedy
 ### 알고리즘 분류의 Greedy 알고리즘에서 나오는 문제들.
+
+# WEB
+
+## 생활코딩 
+###  WEB1 - HTML 완료(06.10.2020)
+## Codecademy
+### Webdeveloper Path
+1. HTML
+2. CSS
+3. Javascript
+### Learn C++
+#### 06.10.2020(Done 25/100)
