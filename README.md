@@ -24,7 +24,9 @@
 
 |날짜|주제|설명|세부내용|
 |---|---|---|---|
-|06.10(2020)~06.13(2020)|**Web Development**|html|Codecademy Web development Path - (1) Learn HTML 완료|
+|06.11(2020)~06.13(2020)|**Web Development**|HTML|Codecademy Web development Path - (1) Learn HTML 완료|
+|06.13(2020)|**Web Development**|CSS|Codecademy Web development Path - (2) Styling a Website 완료|
+|06.13(2020)|**Web Development**|JavaScript|Codecademy Web development Path - (3) Getting Started with JavaScript|
 
 
 ## Language
