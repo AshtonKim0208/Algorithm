@@ -1,4 +1,4 @@
-# 개발일기
+# Progress
 
 ## ComputerScience
 
@@ -14,10 +14,20 @@
 
 ## WEB
 
+### 생활코딩
+
 |날짜|주제|설명|세부내용|
 |---|---|---|---|
-|06.10(2020)|**HTML**|WEB1 - HTML|생활코딩 오픈튜토리얼스 사이트의 WEB1-HTML 완강 후 만든 코드|
-|06.10(2020)~|**WEB**|Web development(5%)|Codecademy 웹개발 과정에서 완성한 코드|
+|06.10(2020)|**HTML**|WEB1 - HTML|생활코딩 오픈튜토리얼스 사이트의 WEB1-HTML 완료|
+
+### Codecademy
+
+|날짜|주제|설명|세부내용|
+|---|---|---|---|
+|06.11(2020)~06.13(2020)|**Web Development**|HTML|Codecademy Web development Path - (1) Learn HTML 완료|
+|06.13(2020)|**Web Development**|CSS|Codecademy Web development Path - (2) Styling a Website 완료|
+|06.13(2020)|**Web Development**|JavaScript|Codecademy Web development Path - (3) Getting Started with JavaScript|
+
 
 ## Language
 
