@@ -1,4 +1,4 @@
-# 개발일기
+# Progress
 
 ## ComputerScience
 
