@@ -22,12 +22,13 @@
 
 ### Codecademy
 
-|날짜|주제|설명|세부내용|
+|날짜|주제|설명|세부내용|완료일|
 |---|---|---|---|
-|06.11(2020)~06.13(2020)|**Web Development**|HTML|Codecademy Web development Path - (1) Learn HTML 완료|
-|06.13(2020)|**Web Development**|CSS|Codecademy Web development Path - (2) Styling a Website 완료|
-|06.13(2020)|**Web Development**|JavaScript|Codecademy Web development Path - (3) Getting Started with JavaScript|
-
+|06.11(2020)|**Web Development**|HTML|Codecademy Web development Path - (1) Learn HTML 완료|06.12|
+|06.13(2020)|**Web Development**|CSS|Codecademy Web development Path - (2) Styling a Website|06.13|
+|06.13(2020)|**Web Development**|JavaScript|Codecademy Web development Path - (3) Getting Started with JavaScript|06.13|
+|06.13(2020)|**Web Development**|JavaScript|Codecademy Web development Path - (3) Getting Started with JavaScript|06.13|
+|06.14(2020)|**Web Development**|JavaScript|Codecademy Web development Path - (4) Getting More Advanced with Design|not yet|
 
 ## Language
 
