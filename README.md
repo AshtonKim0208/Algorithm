@@ -1,35 +1,36 @@
 # Progress
 
-## ComputerScience
+## 1. ComputerScience
 
 |날짜|주제|설명|세부내용|
 |---|---|---|---|
 |02.15~02.25(2020)|**자료구조 및 문자열**|큐, 스택, 문자열 처리 등|42seoul 1기 1차 인원들이 만든 문제집(BOJ에 있는 문제를 기반) 풀이|
 
-## Algorithm
+## 2. Algorithm
 
 |날짜|주제|설명|세부내용|
 |---|---|---|---|
 |06.07~06.10(2020)|**Greedy**|Greedy algorithm|Greedy 알고리즘 공부를 위해 푼 문제들|
 
-## WEB
+## 3. WEB
 
-### 생활코딩
+### 1) 생활코딩
 
 |날짜|주제|설명|세부내용|
 |---|---|---|---|
 |06.10(2020)|**HTML**|WEB1 - HTML|생활코딩 오픈튜토리얼스 사이트의 WEB1-HTML 완료|
 
-### Codecademy
+### 2) Codecademy
 
-|날짜|주제|설명|세부내용|
-|---|---|---|---|
-|06.11(2020)~06.13(2020)|**Web Development**|HTML|Codecademy Web development Path - (1) Learn HTML 완료|
-|06.13(2020)|**Web Development**|CSS|Codecademy Web development Path - (2) Styling a Website 완료|
-|06.13(2020)|**Web Development**|JavaScript|Codecademy Web development Path - (3) Getting Started with JavaScript|
+|날짜|주제|설명|세부내용|완료일|
+|---|---|---|---|---|
+|06.11(2020)|**Web Development**|HTML|Codecademy Web development Path - (1) Learn HTML 완료|06.12|
+|06.13(2020)|**Web Development**|CSS|Codecademy Web development Path - (2) Styling a Website|06.13|
+|06.13(2020)|**Web Development**|JavaScript|Codecademy Web development Path - (3) Getting Started with JavaScript|06.13|
+|06.13(2020)|**Web Development**|JavaScript|Codecademy Web development Path - (3) Getting Started with JavaScript|06.13|
+|06.14(2020)|**Web Development**|JavaScript|Codecademy Web development Path - (4) Getting More Advanced with Design|not yet|
 
-
-## Language
+## 4. Language
 
 |날짜|주제|공부한 사이트(및 진도율)|세부내용|
 |---|---|---|---|
