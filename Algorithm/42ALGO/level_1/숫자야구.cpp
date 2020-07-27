@@ -21,7 +21,7 @@ int main(void)
     for (int i = 123; i <= 987; i++) { // 완전탐색시작
         int cnt = 0;
         string cur = to_string(i); // 현재 인덱스의 숫자를 문자열로 바꿔준다
-        if (!cur[1] || !cur[2] || cur[0] == cur[1] || cur[1] == cur[2] || cur[2] == cur[0]) // 중복숫자가 있거나, 0이 있으면(1~9까지가 들어와야하기때문) continue해준다
+        if (!(cur[1] - '0') || !(cur[2] - '0') || cur[0] == cur[1] || cur[1] == cur[2] || cur[2] == cur[0]) // 중복숫자가 있거나, 0이 있으면(1~9까지가 들어와야하기때문) continue해준다
             continue ;
         for (int j = 0; j < N; j++) {
             string comp = to_string(vec[j].num);
