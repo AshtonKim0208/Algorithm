@@ -3,6 +3,7 @@
         "stdio.h": "c",
         "__config": "cpp",
         "algorithm": "cpp",
-        "iomanip": "cpp"
+        "iomanip": "cpp",
+        "iostream": "cpp"
     }
 }

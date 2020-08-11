@@ -17,7 +17,7 @@ void myFunc(int x, int y, int depth)
                 continue;
             }
             starmap[y + i][x] = STAR;
-            starmap[y + i][x + 4 * (depth - 1)] = STAR; 
+            starmap[y + i][x + 4 * (depth - 1)] = STAR;
         }
         myFunc(y + 2, x + 2, depth - 1);
     }
@@ -34,7 +34,7 @@ int main(void)
         {
             char tmp = starmap[i][j] == STAR ? STAR : ' ';
             cout << tmp;
-        }   
+        }
         cout << '\n';
     }
     return 0;
